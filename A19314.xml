@@ -1,0 +1,441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[The complaint of them that be too late married]</title>
+            <title>Complainte de trop tard marié. English</title>
+            <author>Gringore, Pierre, ca. 1475-1538?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1505</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19314</idno>
+            <idno type="STC">STC 5728</idno>
+            <idno type="STC">ESTC S109112</idno>
+            <idno type="EEBO-CITATION">99844762</idno>
+            <idno type="PROQUEST">99844762</idno>
+            <idno type="VID">9603</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19314)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9603)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 32:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[The complaint of them that be too late married]</title>
+                  <title>Complainte de trop tard marié. English</title>
+                  <author>Gringore, Pierre, ca. 1475-1538?</author>
+                  <author>Copland, Robert, fl. 1508-1547.</author>
+               </titleStmt>
+               <extent>[2+] leaves   </extent>
+               <publicationStmt>
+                  <publisher>Empre[n]ted in fletestrete by Wynkyn de Warde [sic], dwellynge in the famous cyte of London his house in the same at the sygne of the sone,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>[1505?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of: Gringore, Pierre.  La complainte de trop tard marié.</note>
+                  <note>Translated by Robert Copland, whose name appears in acrostic on B3r.--STC.</note>
+                  <note>Imprint from colophon; title from and publication date conjectured by STC.</note>
+                  <note>In verse.</note>
+                  <note>B1r, line 2: In castynge a laughter amerous.</note>
+                  <note>Signatures: B⁴+.</note>
+                  <note>Imperfect: consists of B1,4 only.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="fragmentary_poem">
+                  <pb facs="tcp:9603:1"/>
+                  <!-- PDF PAGE 7 -->
+                  <gap reason="missing" extent="1+ pages">
+                     <desc>〈1… pages missing〉</desc>
+                  </gap>
+                  <pb facs="tcp:9603:1"/>
+                  <!-- PDF PAGE 7 -->
+                  <lg>
+                     <l>
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <unclear>caſtynge a regarde</unclear>
+                     </l>
+                     <l>In caſtynge a laughter amerous</l>
+                     <l>Than with a praty ſmyle ſhe doth me larde</l>
+                     <l>And that maketh me ſumwhat Ioyous</l>
+                     <l>But comynge to a bed delycyous</l>
+                     <l>For to holde the ſpere in a full hande</l>
+                     <l>It plyeth and fayleth for it wyll not ſtonde</l>
+                  </lg>
+                  <lg>
+                     <l>Whan I herde her bable and langage</l>
+                     <l>Her gentyll termes ſpoken ſo properly</l>
+                     <l>I do me wyſſhe for to be in to the age</l>
+                     <l>Of eyghten / neyntene / or foure and twenty</l>
+                     <l>Suche aſſawtes than gyue wolde I</l>
+                     <l>That for it ſhe ſholde haue no nede to craue</l>
+                     <l>Of the grete pleaſure that ſhe ſholde haue</l>
+                  </lg>
+                  <lg>
+                     <l>If that ſhe go to banckettes and daunces</l>
+                     <l>She doth none offence therin certayne</l>
+                     <l>Nedes ſhe muſt haue her pleſaunces</l>
+                     <l>In ſome place to make her glad and fayne</l>
+                     <l>Wherfore I dare well ſay and ſuſtayne</l>
+                     <l>That after with me I wolde haue her ledde</l>
+                     <l>Yf ony ſoner I had ben to her wedde</l>
+                  </lg>
+                  <lg>
+                     <l>We twayne ſholde haue all our yongeneſſe</l>
+                     <l>After maryage cuſtome and ryght</l>
+                     <l>Paſſed in Ioye / ſolace / and gladneſſe</l>
+                     <l>And is wherfore I haue me pyght</l>
+                     <l>Force it is <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o me that the fyre be nyght</l>
+                     <l>That at a nede I can not haue qu<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nched</l>
+                     <l>To late maryed is for to be complayned</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:9603:2"/>
+                     <!-- PDF PAGE 8 -->
+                     <l>
+                        <gap reason="illegible" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap>
+                     </l>
+                     <l>Hym putteth / whan he doth to woman bende</l>
+                     <l>He ne hath but only habytude</l>
+                     <l>Vnto her the whiche well doth hym tende</l>
+                     <l>Who wyll to houſholde comprehende</l>
+                     <l>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> there about ſtudyeth in youth alwayes</l>
+                     <l>He ſhall haue honoure in his olde dayes</l>
+                  </lg>
+                  <lg>
+                     <l>Some chyldren vnto the courtes hauntes</l>
+                     <l>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>en puruayed of benefyces</l>
+                     <l>Some hau<g ref="char:cmbAbbrStroke">̄</g>teth markettes &amp; be marchu<g ref="char:cmbAbbrStroke">̄</g>tes</l>
+                     <l>Byenge and ſellynge theyr marchan<g ref="char:cmbAbbrStroke">̄</g>dyſes</l>
+                     <l>Or elles conſtytued in offyces</l>
+                     <l>Theyr faders and moders haue grete ſolace</l>
+                     <l>That to late maryed by no waye haſe</l>
+                  </lg>
+                  <lg>
+                     <l>I <gap reason="illegible" extent="2+ letters">
+                           <desc>••…</desc>
+                        </gap>wayll the tyme that is ſo ſpent</l>
+                     <l>That I <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> haſted for to wedde</l>
+                     <l>For I ſh<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll haue herytage and rente</l>
+                     <l>Both golde and ſyluer and grete kynred</l>
+                     <l>But ſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ch that our lorde hath or deyned</l>
+                     <l>That I this ſacrament take me vpon</l>
+                     <l>I wyll <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eit <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ewely at all ſeaſon</l>
+                  </lg>
+                  <lg>
+                     <l>Theophraſtus vs ſheweth in his proſe</l>
+                     <l>That in maryage all is out of tune</l>
+                     <l>So both alſo the romanute of the roſe</l>
+                     <l>Compoſed by mayſter Ioha<g ref="char:cmbAbbrStroke">̄</g> de mehune</l>
+                     <l>Yet neuertheles it is all comune</l>
+                     <l>That they neuer were in bonde of maryage</l>
+                     <l>Wherfore at all a ventures is theyr langage</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:9603:2"/>
+                     <!-- PDF PAGE 8 -->
+                     <l>
+                        <gap reason="illegible" extent="2 lines">
+                           <desc>〈2 lines〉</desc>
+                        </gap>
+                     </l>
+                     <l>The ſayd holy ſacramente haue to <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oge <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>yed</l>
+                     <l>Humayne nature taſſemble &amp; it to accorde</l>
+                     <l>Empre<g ref="char:cmbAbbrStroke">̄</g>ted in fleteſtrete by Wynker de warde</l>
+                     <l>Dwellynge in the famous cyte of L<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ndon</l>
+                     <l>His hous in the ſame at the ſygne of the ſone</l>
+                  </lg>
+                  <trailer>Finis</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <pb facs="tcp:9603:3"/>
+                  <!-- PDF PAGE 9 -->
+                  <p>
+                     <figure>
+                        <p>W <figure>
+                              <figDesc>printer's device of William Caxton</figDesc>
+                           </figure> C</p>
+                        <p>Wynkyn de Worde</p>
+                        <figDesc>printer's device of Wynkyn de Worde</figDesc>
+                     </figure>
+                  </p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="fragment_of_an_almanac">
+                  <pb facs="tcp:9603:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 9 -->
+                  <head>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> M.CCCCC.xvij. tranſlate in <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>mous cite of Andwerpe</head>
+                  <div type="part">
+                     <p>The preſuppoſy<gap reason="illegible" extent="2+ letters">
+                           <desc>••…</desc>
+                        </gap>e with the fundacion of the ꝑfection &amp; d<gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> of the grete worlde &amp; of the co<g ref="char:cmbAbbrStroke">̄</g>iu<g ref="char:cmbAbbrStroke">̄</g>ctions more &amp; laſſe &amp;. co<g ref="char:cmbAbbrStroke">̄</g>ſtyl<gap reason="illegible" extent="7 letters">
+                           <desc>〈7 letters〉</desc>
+                        </gap> of this yere practe<gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>rdinge on theſame ¶ a<gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>e of this y<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Folowinge the ſentence of t<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ou<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t &amp; co<g ref="char:cmbAbbrStroke">̄</g>ſtylla<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>io<g ref="char:cmbAbbrStroke">̄</g>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> beforſayd wel co<g ref="char:cmbAbbrStroke">̄</g>ſidered be good vnderſt<gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> we can <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Saturne &amp; Mercurii be lordes of t<gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t / &amp; that mars &amp; <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>rn bé lordes ouer all thinges elem<gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>¶ The generall diſpoſiſcio<g ref="char:cmbAbbrStroke">̄</g> or mouynge of the ayre</head>
+                     <p>This <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>re in his begynni<g ref="char:cmbAbbrStroke">̄</g>ge ſhal be colde &amp; wete &amp; often tymes darke cl<gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>nge with haile &amp; froſt and oft ſhall it be very te<g ref="char:cmbAbbrStroke">̄</g>peſtious with <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> corrupcion &amp; change of the ayre as thunde<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> &amp; lihgtenynge &amp; in the ende <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> be more supoſed to drught than to r<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ines</p>
+                  </div>
+                  <div type="part">
+                     <head>
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> ¶ The diſpoſycion of t<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e wynter.</head>
+                     <p>The winte<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> begineth whan the ſonne toniheth the firſt poynt of capric<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> whiche was the laſt yere the .xi. day of dece<g ref="char:cmbAbbrStroke">̄</g>ber it ſhall by his ſignificatour <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>perate in all his qualities. nat to colde nor to hote but ſomtyme froſt &amp; ſn<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> whiche ſhall not long endure</p>
+                  </div>
+                  <div type="part">
+                     <head>¶ The diſp<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>cyon of the pryme tyme</head>
+                     <p>The prime tyme beginneth this preſent yere<g ref="char:punc">▪</g> the .x. day of marche &amp; the <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>tion of the ſonne &amp; the mone ſhalbe before that (the .viij. day of marche) at t<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> ryſinge of the ſonne the ſignificatours ſheweth vs than to haue diuers <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> hayle &amp; darknes. ſomtyme te<g ref="char:cmbAbbrStroke">̄</g>neſtions whiche ſhall noye bothe man &amp; beſ<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> it ſhalbe diſpoſed by corruption<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s <unclear>feruent</unclear> ſekeneſſes</p>
+                  </div>
+                  <div type="part">
+                     <head>¶ The diſpoſicion of the ſomer</head>
+                     <p>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſhalbe bebynneth the .xij. day. of iune. &amp; the oppoſicio<g ref="char:cmbAbbrStroke">̄</g> of the ſo<g ref="char:cmbAbbrStroke">̄</g>ne &amp; th<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>ne ſhalbe the .viij .day. before: that is the .iiij. day of iune. the ſo<g ref="char:cmbAbbrStroke">̄</g>mer for th<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>te parte ſhalbe drye for the principall planetis ſha<g ref="char:cmbAbbrStroke">̄</g>lbe full of fyre<g ref="char:punc">▪</g> but ſomt<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> it ſhalbe wijnde with thonder lighte<g ref="char:cmbAbbrStroke">̄</g> &amp; hayle in the deſcendinge of the ſayd <gap reason="illegible" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>cipall planetis</p>
+                  </div>
+                  <div type="part">
+                     <head>¶ The diſpoſicion of the herueſt.</head>
+                     <p>
+                        <gap reason="missing" extent="1+ pages">
+                           <desc>〈1… pages missing〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
